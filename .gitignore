@@ -1,0 +1,12 @@
+#コンパイル
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.dll
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
